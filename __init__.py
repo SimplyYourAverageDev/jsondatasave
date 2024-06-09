@@ -14,7 +14,6 @@ def save(Data, Filename: str):
     """
     This function is used to save data in the JSON Format.
     """
-    func()
     with open(Filename, "w") as dump:
         json.dump(Data, dump)
     return Data
