@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.6'
+VERSION = '1.6.1'
 DESCRIPTION = 'Facilitating the process to store JSON data'
 
 # Reading the long description from README.md
